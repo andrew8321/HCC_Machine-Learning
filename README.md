@@ -6,4 +6,4 @@ The repository consists of two main components:
 - Model_Development: Training and validation of machine learning–based treatment selection model
 - Statistical_Analysis: Survival analysis and comparative outcome evaluation
 
-For full details, please refer to the published article:
+For full details, please refer to the published article: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839032
