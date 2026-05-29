@@ -1,0 +1,34 @@
+# Patient data — never commit
+data/
+*.xlsx
+*.xls
+*.csv
+
+# Trained model artifacts
+models/
+*.pkl
+*.json
+
+# Result outputs
+results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
