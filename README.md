@@ -2,7 +2,7 @@
 
 Code for the primary analysis in:
 
-> **Machine Learning Based Selection of Resection versus Transplant Improves Survival in Hepatocellular Carcinoma**
+> **Machine Learning Based Selection of Resection versus Transplant Improves Survival in Hepatocellular Carcinoma**  
 > *JAMA Network Open*, 2025. https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2839032
 
 ---
